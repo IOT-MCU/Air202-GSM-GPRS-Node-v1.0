@@ -1,7 +1,7 @@
 # Air202-GSM-GPRS-Node-v1.0
 Air202 GSM GPRS Node v1.0
 
-LuaTools:http://www.openluat.com/Product/file/rda8955/luatools-redirect.html
+LuaTools:http://www.openluat.com/Product/file/rda8955/luatools-redirect.html or https://mega.nz/#!fz5nQK4A
 
 Wiki of Luat:http://wiki.openluat.com/
 
